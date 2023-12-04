@@ -65,18 +65,18 @@ For our embedded systems project we built a Simon Says game that is playable on 
   * After some tests we found that it needed to be hooked up differently.
 
 ### Contributions
-* Vanessa:
+* Vanessa Orozco:
   * LCD screens
   * LED pattern display
   * Sound/tune effects
   * Hardware setup
-* Josh:
+* Josh Collins:
   * Pattern logic
   * State machine
   * Input handling
   * LCD effects
   * Hardware setup
-* Gregorio:
+* Gregorio Gomez:
   * Component research
   * Block diagram
   * Hardware setup
