@@ -1,7 +1,7 @@
 # SimonSays
 For our embedded systems project we built a Simon Says game that is playable on a NUCLEO board.
 
-![game_image](https://github.com/JoshCollins820/SimonSays/blob/main/game_setup2.jpg)
+![game_image](https://github.com/JoshCollins820/SimonSays/blob/main/game_thumbnail.jpg)
 
 ---
 
