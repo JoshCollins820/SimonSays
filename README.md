@@ -36,7 +36,7 @@ For our embedded systems project we built a Simon Says game that is playable on 
   * Resistors: Four 200 ohms and three 100 ohms
   * Gikfun Push Button: 1 Green, 1 Yellow, 1 Red
 
-![game_image](https://github.com/JoshCollins820/SimonSays/blob/main/block_diagram.jpg)
+  ![game_image](https://github.com/JoshCollins820/SimonSays/blob/main/block_diagram.jpg)
  
 ### Software
 * Mbed OS 5
